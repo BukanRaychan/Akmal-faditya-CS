@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Formulatrix\\Documents\\Bootcamp\\Practice\\Collections\\Lists, Queues, Stacks, Dictionaries and Sets\\Lists, Queues, Stacks, Dictionaries and Sets.csproj": {}
+    "C:\\Users\\Ray SE Bootcamp\\Documents\\Akmal-faditya-CS\\Practice\\Collections\\Lists, Queues, Stacks, Dictionaries and Sets\\Lists, Queues, Stacks, Dictionaries and Sets.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Formulatrix\\Documents\\Bootcamp\\Practice\\Collections\\Lists, Queues, Stacks, Dictionaries and Sets\\Lists, Queues, Stacks, Dictionaries and Sets.csproj": {
+    "C:\\Users\\Ray SE Bootcamp\\Documents\\Akmal-faditya-CS\\Practice\\Collections\\Lists, Queues, Stacks, Dictionaries and Sets\\Lists, Queues, Stacks, Dictionaries and Sets.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Formulatrix\\Documents\\Bootcamp\\Practice\\Collections\\Lists, Queues, Stacks, Dictionaries and Sets\\Lists, Queues, Stacks, Dictionaries and Sets.csproj",
+        "projectUniqueName": "C:\\Users\\Ray SE Bootcamp\\Documents\\Akmal-faditya-CS\\Practice\\Collections\\Lists, Queues, Stacks, Dictionaries and Sets\\Lists, Queues, Stacks, Dictionaries and Sets.csproj",
         "projectName": "Lists, Queues, Stacks, Dictionaries and Sets",
-        "projectPath": "C:\\Users\\Formulatrix\\Documents\\Bootcamp\\Practice\\Collections\\Lists, Queues, Stacks, Dictionaries and Sets\\Lists, Queues, Stacks, Dictionaries and Sets.csproj",
-        "packagesPath": "C:\\Users\\Formulatrix\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Formulatrix\\Documents\\Bootcamp\\Practice\\Collections\\Lists, Queues, Stacks, Dictionaries and Sets\\obj\\",
+        "projectPath": "C:\\Users\\Ray SE Bootcamp\\Documents\\Akmal-faditya-CS\\Practice\\Collections\\Lists, Queues, Stacks, Dictionaries and Sets\\Lists, Queues, Stacks, Dictionaries and Sets.csproj",
+        "packagesPath": "C:\\Users\\Ray SE Bootcamp\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ray SE Bootcamp\\Documents\\Akmal-faditya-CS\\Practice\\Collections\\Lists, Queues, Stacks, Dictionaries and Sets\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Formulatrix\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Ray SE Bootcamp\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.421/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

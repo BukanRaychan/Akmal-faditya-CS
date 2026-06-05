@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Lists, Queues, Stacks, Dictionaries and Sets")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1160dd620c4bd739166d8672d37b03c9699c7f98")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fdc679372ab3f933877b314992a9c9c1ff27ec3e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lists, Queues, Stacks, Dictionaries and Sets")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lists, Queues, Stacks, Dictionaries and Sets")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
